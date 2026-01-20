@@ -1,0 +1,10 @@
+# Matikan directory listing
+Options -Indexes
+
+# Redirect jika folder diakses langsung
+DirectoryIndex index.php
+
+# Lindungi file json & php
+<FilesMatch "\.(json|php)$">
+    Require all denied
+</FilesMatch>

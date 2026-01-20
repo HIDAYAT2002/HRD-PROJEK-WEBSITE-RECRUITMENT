@@ -1,0 +1,25 @@
+<?php
+include '../config/koneksi.php';
+$id = $_GET['id'];
+$l = mysqli_fetch_assoc(mysqli_query($conn,"SELECT * FROM lowongan WHERE id='$id'"));
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Apply</title>
+    <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<form class="card" action="proses_apply.php" method="POST" enctype="multipart/form-data">
+    <h2><?= $l['posisi']; ?></h2>
+    <input type="hidden" name="lowongan_id" value="<?= $l['id']; ?>">
+    <input name="nama" placeholder="Nama Lengkap" required>
+    <input name="email" type="email" placeholder="Email" required>
+    <input name="no_hp" placeholder="No HP" required>
+    <input type="file" name="cv" accept="application/pdf" required>
+    <button class="btn">Kirim Lamaran</button>
+</form>
+
+</body>
+</html>

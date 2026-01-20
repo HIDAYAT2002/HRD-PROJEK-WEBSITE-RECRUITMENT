@@ -1,0 +1,24 @@
+[29-Dec-2025 07:32:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ptwgicom/public_html/career/config/koneksi.php:2
+Stack trace:
+#0 /home/ptwgicom/public_html/career/config/koneksi.php(2): mysqli_connect('localhost', 'root', '', 'wgi_recruitment')
+#1 /home/ptwgicom/public_html/career/index.php(2): include('/home/ptwgicom/...')
+#2 {main}
+  thrown in /home/ptwgicom/public_html/career/config/koneksi.php on line 2
+[29-Dec-2025 07:33:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ptwgicom/public_html/career/config/koneksi.php:2
+Stack trace:
+#0 /home/ptwgicom/public_html/career/config/koneksi.php(2): mysqli_connect('localhost', 'root', '', 'wgi_recruitment')
+#1 /home/ptwgicom/public_html/career/index.php(2): include('/home/ptwgicom/...')
+#2 {main}
+  thrown in /home/ptwgicom/public_html/career/config/koneksi.php on line 2
+[29-Dec-2025 07:33:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ptwgicom/public_html/career/config/koneksi.php:2
+Stack trace:
+#0 /home/ptwgicom/public_html/career/config/koneksi.php(2): mysqli_connect('localhost', 'root', '', 'wgi_recruitment')
+#1 /home/ptwgicom/public_html/career/index.php(2): include('/home/ptwgicom/...')
+#2 {main}
+  thrown in /home/ptwgicom/public_html/career/config/koneksi.php on line 2
+[29-Dec-2025 07:33:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ptwgicom/public_html/career/config/koneksi.php:2
+Stack trace:
+#0 /home/ptwgicom/public_html/career/config/koneksi.php(2): mysqli_connect('localhost', 'root', '', 'wgi_recruitment')
+#1 /home/ptwgicom/public_html/career/index.php(2): include('/home/ptwgicom/...')
+#2 {main}
+  thrown in /home/ptwgicom/public_html/career/config/koneksi.php on line 2

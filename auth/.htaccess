@@ -1,0 +1,5 @@
+# Matikan tampilan "Index of ..."
+Options -Indexes
+
+# Biar kalau buka folder, server cari index dulu
+DirectoryIndex index.php index.html
