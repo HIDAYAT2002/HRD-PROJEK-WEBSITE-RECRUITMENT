@@ -1,7 +1,5 @@
 # HRD Project – Website Recruitment
 
-**PT Wiraswasta Gemilang Indonesia**
-
 Sistem **Website Recruitment** untuk mendukung proses rekrutmen karyawan secara **digital, terstruktur, dan terintegrasi**, mulai dari publikasi lowongan hingga pengelolaan tahapan seleksi oleh HRD.
 
 ---
