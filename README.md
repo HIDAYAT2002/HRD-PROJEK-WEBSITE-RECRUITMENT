@@ -111,7 +111,8 @@ Sistem **Website Recruitment** untuk mendukung proses rekrutmen karyawan secara 
 ---
 
 ## 👨‍💻 Developer
-**Hidayat Tulloh**  
+**Hidayat Tulloh**
+Maganghub Kemnaker Nasional
 Teknik Informatika  
 HRD Project – Website Recruitment  
 
