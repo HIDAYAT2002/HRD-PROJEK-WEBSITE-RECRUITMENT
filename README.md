@@ -105,6 +105,7 @@ Sistem **Website Recruitment** untuk mendukung proses rekrutmen karyawan secara 
 - PHP Native  
 - MySQL  
 - HTML, CSS, JavaScript  
+- Api
 - Git & GitHub  
 - XAMPP  
 
