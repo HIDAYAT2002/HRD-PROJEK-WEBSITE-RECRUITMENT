@@ -3,3 +3,15 @@
 /vendor
 /node_modules
 .env
+# Database & backup
+Database/
+database/
+*.sql
+
+# Log
+error_log
+*.log
+
+# OS
+desktop.ini
+.DS_Store
