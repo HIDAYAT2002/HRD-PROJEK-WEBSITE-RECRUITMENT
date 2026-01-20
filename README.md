@@ -100,7 +100,7 @@ Sistem **Website Recruitment** untuk mendukung proses rekrutmen karyawan secara 
 ![Export Seleksi](docs/images/Hasil%20Download%20Semua%20Data%20Seleksi.png)
 
 ---
-
+## LINK PUBLISH RECRUITMENT : http://ptwgi.com/career/
 ## 🛠️ Teknologi
 - PHP Native  
 - MySQL  
